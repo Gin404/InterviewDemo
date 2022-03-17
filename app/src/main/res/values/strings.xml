@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">InterviewDemo</string>
+
+    <string name="title_home">首页</string>
+    <string name="title_profile">我的</string>
+    <string name="title_classify">分类</string>
+    <string name="title_community">社区</string>
+    <string name="title_shopping_cart">购物车</string>
+
+    <!--个人页-->
+    <string name="test_kit">测试集</string>
+    <string name="test_frag_jump">fragment生命周期</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="add_fragment">add fragment B</string>
+    <string name="replace_fragment">replace fragment B</string>
+    <string name="remove_fragment">remove fragment B</string>
+    <string name="frag_exist">fragment exist</string>
+
+    <string name="title_fragment_test_a">Test A fragment</string>
+    <string name="title_fragment_test_b">Test B fragment</string>
+</resources>
